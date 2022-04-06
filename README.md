@@ -17,6 +17,8 @@ Alternatively you can use the gh tool to install the datapack:
 gh repo clone EmeraldThunder1/better-tridents
 ```
 
+If you don't have git installed you can just download the source code from the website and drop the folder in your datapacks folder.
+
 ## Usage
 The crafting recipe for tridents is as follows:
 
