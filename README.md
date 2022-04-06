@@ -25,4 +25,5 @@ The crafting recipe for tridents is as follows:
 The effects that are applied when you hold a trident are as follows:
 
 ![Effects](https://user-images.githubusercontent.com/79803873/161951095-079720e6-c515-4e3d-a93a-ca54dec5f927.png)
+
 If you would like to suggest any to be added just create an issue on the repo, I'm currently implementing different effect levels for different enchantment levels.
